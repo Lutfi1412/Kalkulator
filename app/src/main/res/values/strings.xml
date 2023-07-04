@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">cobacoy</string>
+    <string name="_89_90">89 + 90</string>
+    <string name="_9494">9494</string>
+    <string name="c">c</string>
+    <string name="persen">%</string>
+    <string name="bagi">/</string>
+    <string name="_7">7</string>
+    <string name="_8">8</string>
+    <string name="_9">9</string>
+    <string name="kali">*</string>
+    <string name="_5">5</string>
+    <string name="_4">4</string>
+    <string name="_6">6</string>
+    <string name="_1">1</string>
+    <string name="tambah">+</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="kurang">-</string>
+    <string name="ac">ac</string>
+    <string name="_0">0</string>
+    <string name="tiitk">.</string>
+    <string name="samadengan">=</string>
+</resources>
